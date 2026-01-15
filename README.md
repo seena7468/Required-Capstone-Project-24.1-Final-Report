@@ -1,6 +1,6 @@
 # Required-Capstone-Project-24.1-Final-Report
 
-Jupyter NoteBook link 
+Jupyter NoteBook link - https://github.com/seena7468/Required-Capstone-Project-24.1-Final-Report/blob/main/CapStoneFinal.ipynb
 
 ### Project overview and goals: 
 Predict the SSD rated life consumed based on the SSD drive log page/system data collected through NetApp Autosupport feature
